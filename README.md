@@ -1,1 +1,1 @@
-# EzAI-Frontend
+# EzAI Frontend
